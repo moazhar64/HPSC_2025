@@ -3,6 +3,9 @@ Module to calculate sqrt using Newton's method
 """
 
 def sqrt2(x):
+	"""
+	sqrt function implemenaion
+	"""
 	s=1.0
 	kmax=100
 	tol=1.0e-14
